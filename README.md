@@ -36,7 +36,19 @@ This Python script defines a function named `calculate_factorial` that takes a n
 ## Description
 This repository contains solutions to a series of Python coding challenges. Each challenge is designed to test your understanding of fundamental Python concepts, including decorators, sorting sequences, working with dictionaries, and object-oriented programming.
 
-## Challenges and Solutions
-
 ### 1. Function: apply_decorator 
 Write a Python function named `apply_decorator` that takes a function `func` as input and applies a decorator named `decorator_func`. The decorator should simply print "Decorator Applied" before calling the original function.
+
+
+# Sort By Age
+
+The sequence.py scripts sorts a list of people by their age. The script defines a function `sort_by_age` that takes a list of tuples, where each tuple contains a name and an age, and returns the list sorted by age.
+
+
+# Merge Dictionaries
+
+This Python script defines a function `merge_dicts` that merges two dictionaries by adding the values of any keys that are present in both dictionaries.
+
+# Car Class
+
+This Python script defines a `Car` class that models a car with attributes such as make, model, and year. It also includes a method to display car information.
