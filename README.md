@@ -38,5 +38,5 @@ This repository contains solutions to a series of Python coding challenges. Each
 
 ## Challenges and Solutions
 
-### 1. Function: apply_decorator (1 point)
+### 1. Function: apply_decorator 
 Write a Python function named `apply_decorator` that takes a function `func` as input and applies a decorator named `decorator_func`. The decorator should simply print "Decorator Applied" before calling the original function.
